@@ -1,0 +1,380 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-11-27T00:06:07Z",
+  "title": "Design System: Mohammed Bagowabair",
+  "extensions": {
+    "colorMeta": {
+      "field": {
+        "role": "primary",
+        "displayName": "Mineral Field",
+        "canonical": "#143f46",
+        "tonalRamp": [
+          "oklch(15.0% 0.022 210.0)",
+          "oklch(26.4% 0.035 210.0)",
+          "oklch(37.9% 0.048 210.0)",
+          "oklch(49.3% 0.048 210.0)",
+          "oklch(60.7% 0.048 210.0)",
+          "oklch(72.1% 0.048 210.0)",
+          "oklch(83.6% 0.042 210.0)",
+          "oklch(95.0% 0.024 210.0)"
+        ]
+      },
+      "field-deep": {
+        "role": "primary",
+        "displayName": "Deep Field",
+        "canonical": "#0e3238",
+        "tonalRamp": [
+          "oklch(15.0% 0.019 210.4)",
+          "oklch(26.4% 0.030 210.4)",
+          "oklch(37.9% 0.042 210.4)",
+          "oklch(49.3% 0.042 210.4)",
+          "oklch(60.7% 0.042 210.4)",
+          "oklch(72.1% 0.042 210.4)",
+          "oklch(83.6% 0.037 210.4)",
+          "oklch(95.0% 0.021 210.4)"
+        ]
+      },
+      "thread": {
+        "role": "secondary",
+        "displayName": "Amber Thread",
+        "canonical": "#e3b23c",
+        "tonalRamp": [
+          "oklch(15.0% 0.064 85.2)",
+          "oklch(26.4% 0.102 85.2)",
+          "oklch(37.9% 0.141 85.2)",
+          "oklch(49.3% 0.141 85.2)",
+          "oklch(60.7% 0.141 85.2)",
+          "oklch(72.1% 0.141 85.2)",
+          "oklch(83.6% 0.124 85.2)",
+          "oklch(95.0% 0.071 85.2)"
+        ]
+      },
+      "paper": {
+        "role": "neutral",
+        "displayName": "Stone Paper",
+        "canonical": "#e7eeef",
+        "tonalRamp": [
+          "oklch(15.0% 0.003 207.1)",
+          "oklch(26.4% 0.005 207.1)",
+          "oklch(37.9% 0.008 207.1)",
+          "oklch(49.3% 0.008 207.1)",
+          "oklch(60.7% 0.008 207.1)",
+          "oklch(72.1% 0.008 207.1)",
+          "oklch(83.6% 0.007 207.1)",
+          "oklch(95.0% 0.004 207.1)"
+        ]
+      },
+      "paper-bright": {
+        "role": "neutral",
+        "displayName": "Bright Paper",
+        "canonical": "#f4f7f6",
+        "tonalRamp": [
+          "oklch(15.0% 0.002 207.1)",
+          "oklch(26.4% 0.002 207.1)",
+          "oklch(37.9% 0.003 207.1)",
+          "oklch(49.3% 0.003 207.1)",
+          "oklch(60.7% 0.003 207.1)",
+          "oklch(72.1% 0.003 207.1)",
+          "oklch(83.6% 0.003 207.1)",
+          "oklch(95.0% 0.002 207.1)"
+        ]
+      },
+      "white": {
+        "role": "neutral",
+        "displayName": "Paper White",
+        "canonical": "#ffffff",
+        "tonalRamp": [
+          "oklch(15.0% 0.000 207.1)",
+          "oklch(26.4% 0.000 207.1)",
+          "oklch(37.9% 0.000 207.1)",
+          "oklch(49.3% 0.000 207.1)",
+          "oklch(60.7% 0.000 207.1)",
+          "oklch(72.1% 0.000 207.1)",
+          "oklch(83.6% 0.000 207.1)",
+          "oklch(95.0% 0.000 207.1)"
+        ]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Ink",
+        "canonical": "#102226",
+        "tonalRamp": [
+          "oklch(15.0% 0.011 213.5)",
+          "oklch(26.4% 0.018 213.5)",
+          "oklch(37.9% 0.025 213.5)",
+          "oklch(49.3% 0.025 213.5)",
+          "oklch(60.7% 0.025 213.5)",
+          "oklch(72.1% 0.025 213.5)",
+          "oklch(83.6% 0.022 213.5)",
+          "oklch(95.0% 0.012 213.5)"
+        ]
+      },
+      "ink-soft": {
+        "role": "neutral",
+        "displayName": "Soft Ink",
+        "canonical": "#2a4549",
+        "tonalRamp": [
+          "oklch(15.0% 0.015 207.6)",
+          "oklch(26.4% 0.024 207.6)",
+          "oklch(37.9% 0.033 207.6)",
+          "oklch(49.3% 0.033 207.6)",
+          "oklch(60.7% 0.033 207.6)",
+          "oklch(72.1% 0.033 207.6)",
+          "oklch(83.6% 0.029 207.6)",
+          "oklch(95.0% 0.017 207.6)"
+        ]
+      },
+      "mist": {
+        "role": "neutral",
+        "displayName": "Mist",
+        "canonical": "#d5e4e2",
+        "tonalRamp": [
+          "oklch(15.0% 0.007 187.3)",
+          "oklch(26.4% 0.012 187.3)",
+          "oklch(37.9% 0.016 187.3)",
+          "oklch(49.3% 0.016 187.3)",
+          "oklch(60.7% 0.016 187.3)",
+          "oklch(72.1% 0.016 187.3)",
+          "oklch(83.6% 0.014 187.3)",
+          "oklch(95.0% 0.008 187.3)"
+        ]
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "Hairline",
+        "canonical": "rgba(16, 34, 38, 0.16)",
+        "tonalRamp": [
+          "oklch(15.0% 0.011 213.5)",
+          "oklch(26.4% 0.018 213.5)",
+          "oklch(37.9% 0.025 213.5)",
+          "oklch(49.3% 0.025 213.5)",
+          "oklch(60.7% 0.025 213.5)",
+          "oklch(72.1% 0.025 213.5)",
+          "oklch(83.6% 0.022 213.5)",
+          "oklch(95.0% 0.012 213.5)"
+        ]
+      },
+      "line-light": {
+        "role": "neutral",
+        "displayName": "Field Line",
+        "canonical": "rgba(244, 247, 246, 0.34)",
+        "tonalRamp": [
+          "oklch(15.0% 0.002 207.1)",
+          "oklch(26.4% 0.002 207.1)",
+          "oklch(37.9% 0.003 207.1)",
+          "oklch(49.3% 0.003 207.1)",
+          "oklch(60.7% 0.003 207.1)",
+          "oklch(72.1% 0.003 207.1)",
+          "oklch(83.6% 0.003 207.1)",
+          "oklch(95.0% 0.002 207.1)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "The lead headline. Measure capped at 9.2em."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "Section titles."
+      },
+      "title": {
+        "displayName": "Title",
+        "purpose": "Project names and process steps. Service names sit just under this size."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Reading text at 1.0625rem, weight 450, max 65ch."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Hire pills and emphasized text links. Weight 600, tracking -0.02em."
+      }
+    },
+    "shadows": [
+      {
+        "name": "browser",
+        "value": "0 22px 44px rgba(8, 24, 28, 0.28)",
+        "purpose": "The only shadow. Lifts the browser frame where the field meets the paper."
+      }
+    ],
+    "motion": [
+      {
+        "name": "intro-ease",
+        "value": "power3.out",
+        "purpose": "Load-in of the nameplate thread and the browser reveal."
+      },
+      {
+        "name": "thread-draw",
+        "value": "1.05s",
+        "purpose": "Nameplate thread scales from the left on load."
+      },
+      {
+        "name": "browser-reveal",
+        "value": "1.2s",
+        "purpose": "Browser clip-path opens from inset(7% 4% 10% 4%), starting 0.06s after the thread."
+      },
+      {
+        "name": "rail-scrub",
+        "value": "scrub 0.4, ease none, start top 72%, end bottom 68%",
+        "purpose": "Process rail fill tracks scroll through the step list."
+      },
+      {
+        "name": "scroll",
+        "value": "smooth",
+        "purpose": "Document scroll when motion is allowed. Auto when reduced motion is requested."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "work",
+        "value": "800px"
+      },
+      {
+        "name": "nav",
+        "value": "880px"
+      },
+      {
+        "name": "columns",
+        "value": "960px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Bright-paper hire pill used on the field. Hover fills paper white. Focus ring is the thread.",
+      "html": "<a class=\"ds-btn-primary\" href=\"#contact\">Hire me on Upwork</a>",
+      "css": ".ds-btn-primary { display: inline-flex; align-items: center; justify-content: center; min-height: 48px; padding: 0.65rem 1.2rem; border-radius: 999px; background: var(--paper-bright); color: var(--ink); font-family: \"Schibsted Grotesk\", \"Avenir Next\", \"Segoe UI\", sans-serif; font-size: 1.0625rem; font-weight: 600; letter-spacing: -0.02em; line-height: 1.2; text-decoration: none; }\n.ds-btn-primary:hover { background: #ffffff; }\n.ds-btn-primary:focus-visible { outline: 2px solid var(--thread); outline-offset: 3px; }"
+    },
+    {
+      "name": "Field Button",
+      "kind": "button",
+      "refersTo": "button-field",
+      "description": "Field hire pill used on paper. Hover fills deep field. Focus ring is the field.",
+      "html": "<a class=\"ds-btn-field\" href=\"#contact\">Hire me on Upwork</a>",
+      "css": ".ds-btn-field { display: inline-flex; align-items: center; justify-content: center; min-height: 48px; padding: 0.65rem 1.2rem; border-radius: 999px; background: var(--field); color: var(--paper-bright); font-family: \"Schibsted Grotesk\", \"Avenir Next\", \"Segoe UI\", sans-serif; font-size: 1.0625rem; font-weight: 600; letter-spacing: -0.02em; line-height: 1.2; text-decoration: none; }\n.ds-btn-field:hover { background: var(--field-deep); }\n.ds-btn-field:focus-visible { outline: 2px solid var(--field); outline-offset: 3px; }"
+    },
+    {
+      "name": "Menu Toggle",
+      "kind": "button",
+      "refersTo": "nav-toggle",
+      "description": "Pill toggle on the nameplate below 880px. Resting border is the field line. Hover turns the border and the label to the thread.",
+      "html": "<div class=\"ds-toggle-stage\"><button class=\"ds-nav-toggle\" type=\"button\">Menu</button></div>",
+      "css": ".ds-toggle-stage { display: inline-block; background: var(--field); padding: 0.7rem 1rem; }\n.ds-nav-toggle { appearance: none; background: transparent; color: var(--paper-bright); border: 1px solid var(--line-light); border-radius: 999px; min-height: 44px; padding: 0.35rem 0.95rem; font-family: \"Schibsted Grotesk\", \"Avenir Next\", \"Segoe UI\", sans-serif; font-size: 1.0625rem; font-weight: 560; cursor: pointer; }\n.ds-nav-toggle:hover { border-color: var(--thread); color: var(--thread); }\n.ds-nav-toggle:focus-visible { outline: 2px solid var(--thread); outline-offset: 3px; }"
+    },
+    {
+      "name": "Nameplate",
+      "kind": "nav",
+      "refersTo": "nameplate",
+      "description": "Sticky field bar with a 3px thread, the name, the place line, section links, and the hire pill.",
+      "html": "<header class=\"ds-mast\">\n  <div class=\"ds-mast-thread\"></div>\n  <div class=\"ds-mast-bar\">\n    <a class=\"ds-wordmark\" href=\"#content\">\n      <span class=\"ds-wordmark-name\">Mohammed Bagowabair</span>\n      <span class=\"ds-wordmark-place\">Independent developer, Yemen</span>\n    </a>\n    <nav class=\"ds-nav\" aria-label=\"Page\">\n      <a href=\"#services\">Services</a>\n      <a href=\"#process\">Process</a>\n      <a href=\"#work\">Work</a>\n      <a href=\"#contact\">Contact</a>\n      <a class=\"ds-nav-hire\" href=\"#contact\">Hire me on Upwork</a>\n    </nav>\n  </div>\n</header>",
+      "css": ".ds-mast { background: var(--field); color: var(--paper-bright); font-family: \"Schibsted Grotesk\", \"Avenir Next\", \"Segoe UI\", sans-serif; }\n.ds-mast-thread { height: 3px; background: var(--thread); }\n.ds-mast-bar { display: flex; flex-wrap: wrap; align-items: center; gap: 0.75rem 1.35rem; min-height: 4.25rem; padding: 0.7rem 1rem; }\n.ds-wordmark { display: flex; flex-direction: column; gap: 0.1rem; margin-right: auto; color: inherit; text-decoration: none; line-height: 1.15; }\n.ds-wordmark-name { font-size: 1.05rem; font-weight: 650; letter-spacing: -0.03em; }\n.ds-wordmark-place { font-size: 0.9375rem; color: var(--mist); }\n.ds-nav { display: flex; align-items: center; gap: 1.35rem; }\n.ds-nav a { color: inherit; text-decoration: none; font-size: 1rem; font-weight: 500; min-height: 44px; display: inline-flex; align-items: center; }\n.ds-nav a:not(.ds-nav-hire):hover { color: var(--thread); }\n.ds-nav a:focus-visible { outline: 2px solid var(--thread); outline-offset: 3px; }\n.ds-nav a.ds-nav-hire { min-height: 48px; padding: 0.65rem 1.2rem; border-radius: 999px; background: var(--paper-bright); color: var(--ink); font-size: 1.05rem; font-weight: 600; letter-spacing: -0.02em; line-height: 1.2; }\n.ds-nav a.ds-nav-hire:hover { background: #ffffff; color: var(--ink); }"
+    },
+    {
+      "name": "Text Link",
+      "kind": "custom",
+      "refersTo": "text-link",
+      "description": "Emphasized link. Ink underline on paper. Thread underline when the link sits on the field.",
+      "html": "<p class=\"ds-link-row\"><a class=\"ds-text-link\" href=\"#work\">Open the demo</a><span class=\"ds-field-link\"><a class=\"ds-text-link ds-text-link-field\" href=\"#work\">See the demos</a></span></p>",
+      "css": ".ds-link-row { display: flex; flex-wrap: wrap; align-items: center; gap: 1.35rem; font-family: \"Schibsted Grotesk\", \"Avenir Next\", \"Segoe UI\", sans-serif; }\n.ds-text-link { color: var(--ink); font-weight: 600; letter-spacing: -0.02em; text-underline-offset: 0.22em; font-size: 1.0625rem; }\n.ds-text-link:focus-visible { outline: 2px solid var(--field); outline-offset: 3px; }\n.ds-field-link { background: var(--field); padding: 0.35rem 0.7rem; }\n.ds-text-link-field { color: var(--paper-bright); text-decoration-color: var(--thread); }\n.ds-text-link-field:focus-visible { outline-color: var(--thread); }"
+    },
+    {
+      "name": "Browser Frame",
+      "kind": "custom",
+      "refersTo": "browser-frame",
+      "description": "The lead frame. Stone-paper chrome, bright-paper body, 14px top corners, square bottom edge, and the only shadow.",
+      "html": "<div class=\"ds-browser\">\n  <div class=\"ds-browser-bar\">\n    <span></span><span></span><span></span>\n    <span class=\"ds-browser-url\">mohammedbagowabair.github.io/Artvue-Art-Marketplace-Website</span>\n  </div>\n  <div class=\"ds-browser-view\"></div>\n</div>",
+      "css": ".ds-browser { background: var(--paper-bright); color: var(--ink); border-radius: 14px 14px 0 0; overflow: hidden; box-shadow: 0 22px 44px rgba(8, 24, 28, 0.28); font-family: \"Schibsted Grotesk\", \"Avenir Next\", \"Segoe UI\", sans-serif; }\n.ds-browser-bar { display: flex; align-items: center; gap: 0.4rem; padding: 0.7rem 0.9rem; background: var(--paper); }\n.ds-browser-bar span:nth-child(-n + 3) { width: 0.5rem; height: 0.5rem; border-radius: 50%; background: #8aa0a3; flex: none; }\n.ds-browser-url { margin-left: 0.45rem; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; font-size: 0.875rem; color: var(--ink-soft); }\n.ds-browser-view { height: 8.5rem; background: var(--mist); }"
+    },
+    {
+      "name": "Service Row",
+      "kind": "custom",
+      "refersTo": "service-row",
+      "description": "A square index row. Hairline above and below, title, then soft-ink description. Projects use the same rule.",
+      "html": "<div class=\"ds-service\">\n  <div class=\"ds-service-title\">Business websites</div>\n  <p>A clear site for a company: what it does, who it is for, and how to get in touch.</p>\n</div>",
+      "css": ".ds-service { padding: 1.15rem 0 1.25rem; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); font-family: \"Schibsted Grotesk\", \"Avenir Next\", \"Segoe UI\", sans-serif; color: var(--ink); max-width: 62ch; }\n.ds-service-title { font-size: clamp(1.4rem, 2vw, 1.8rem); font-weight: 560; letter-spacing: -0.03em; line-height: 1.15; }\n.ds-service p { margin: 0.4rem 0 0; color: var(--ink-soft); font-size: 1.0625rem; font-weight: 450; line-height: 1.55; }"
+    },
+    {
+      "name": "Process Rail",
+      "kind": "custom",
+      "refersTo": "process-rail",
+      "description": "Field band with a 3px thread fill on a field-line track. The step numeral is the thread.",
+      "html": "<div class=\"ds-process\">\n  <div class=\"ds-rail\" aria-hidden=\"true\"><span class=\"ds-rail-fill\"></span></div>\n  <ol class=\"ds-steps\">\n    <li>\n      <h3>Discovery</h3>\n      <p>A conversation about the business, the people the site is for, and what should happen when someone arrives.</p>\n    </li>\n  </ol>\n</div>",
+      "css": ".ds-process { position: relative; background: var(--field); color: var(--paper-bright); padding: 0.25rem 1rem; font-family: \"Schibsted Grotesk\", \"Avenir Next\", \"Segoe UI\", sans-serif; }\n.ds-rail { position: absolute; left: 1rem; top: 0; bottom: 0; width: 3px; background: var(--line-light); }\n.ds-rail-fill { display: block; width: 100%; height: 100%; background: var(--thread); }\n.ds-steps { list-style: none; margin: 0; padding: 0; counter-reset: step; }\n.ds-steps li { counter-increment: step; padding: 1.7rem 0 1.35rem 1.35rem; }\n.ds-steps h3 { margin: 0 0 0.45rem; font-size: clamp(1.45rem, 2vw, 1.85rem); font-weight: 560; letter-spacing: -0.03em; line-height: 1.05; color: var(--paper-bright); }\n.ds-steps h3::before { content: counter(step); margin-right: 0.45em; color: var(--thread); }\n.ds-steps p { margin: 0; max-width: 62ch; color: var(--mist); font-size: 1.0625rem; font-weight: 450; line-height: 1.55; }\n.ds-steps a:focus-visible, .ds-process :focus-visible { outline: 2px solid var(--thread); outline-offset: 3px; }"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Morning Edition",
+    "overview": "The page reads as a morning edition. A mineral field holds the nameplate and the lead; stone paper holds the services and the demos. Schibsted Grotesk, self-hosted, sets the nameplate, the display line, and the body. One amber thread is the only accent, and it stays on the field.\n\nThe pace is an edition's. A display headline, a short deck, and one pill. Services and demos are hairline indexes. The process carries the same thread down a rail beside the steps. Ground changes do the work of depth. The browser frame is the single lifted object, and it crosses from the field onto the paper.\n\nSelection, the caret, the scrollbar, and the focus ring come from the field, the paper, and the thread. Motion is one gesture. The thread draws along the nameplate, the browser opens from a clip, and the process rail fills as the steps move through the viewport. With reduced motion, or if the motion library does not load, those three are already complete.",
+    "keyCharacteristics": [
+      "Two grounds: mineral field for the nameplate, lead, process, and close; stone paper for services and demos",
+      "Deep field for the pressed field button and the colophon",
+      "One amber thread, only on the field",
+      "One self-hosted grotesque, variable weights 400\u2013700, no italic",
+      "Pills for actions, square bands, 1px indexes",
+      "One shadow, under the browser frame",
+      "Focus, selection, caret, and scrollbar taken from the palette"
+    ],
+    "rules": [
+      {
+        "name": "The Thread Rule",
+        "body": "Amber appears only on the field. It marks the nameplate, field focus, field underlines, process numerals, and the process rail. It is never a text fill. On stone paper it falls to about 1.7:1, so the build keeps it off the paper entirely.",
+        "section": "colors"
+      },
+      {
+        "name": "The Tint Rule",
+        "body": "Secondary text is a tint of the same mineral hue. Soft ink on paper, mist on the field. A neutral gray is not a text color in this system.",
+        "section": "colors"
+      },
+      {
+        "name": "The One Family Rule",
+        "body": "Schibsted Grotesk is the only voice. The loaded file is the Latin variable, weights 400\u2013700, self-hosted, with `font-display: swap`. Avenir Next, then Segoe UI, then a generic sans, are the fallbacks. Italic is not loaded.",
+        "section": "typography"
+      },
+      {
+        "name": "The Measure Rule",
+        "body": "Body stops at 65ch. The deck stops at 40rem. Service lines and the lead caption stop at 62ch. Display tracking is \u22120.035em. Shared heading tracking is \u22120.03em. Display size ends at 6rem.",
+        "section": "typography"
+      },
+      {
+        "name": "The Seam Rule",
+        "body": "The lead browser belongs to both grounds. It overlaps the paper by 3.25rem. Its top corners are 14px. Its bottom edge is square where it meets the paper. The caption begins 4.15rem below that crossing.",
+        "section": "layout"
+      },
+      {
+        "name": "The Flat Paper Rule",
+        "body": "Bands, rows, pills, and the nameplate cast no shadow. A surface that needs to separate changes ground. The browser shadow is the only exception, and it stays on that frame.",
+        "section": "elevation"
+      },
+      {
+        "name": "The Pill and Hairline Rule",
+        "body": "A pill means an action. An index is a square row closed by a 1px line: ink at 16% on paper. The rail track and the resting menu border use bright paper at 34%.",
+        "section": "shapes"
+      },
+      {
+        "name": "The Field Focus Rule",
+        "body": "The focus ring is 2px, offset 3px. On paper it is the field. On the nameplate, the lead, and any field band it is the thread. The skip link uses the focus event itself to come back into view, because it is hidden until then.",
+        "section": "components"
+      }
+    ],
+    "dos": [
+      "Do print the nameplate, the lead, the process, and the close on the mineral field, the colophon on deep field, and the services and demos on stone paper.",
+      "Do keep the amber thread on the field: the 3px nameplate rule, field focus, field underlines, process numerals, and the process rail.",
+      "Do use a bright-paper pill on the field and a field pill on paper, both at a 48px minimum height.",
+      "Do separate index rows with a 1px hairline, ink at 16% on paper.",
+      "Do theme selection (field ground, bright paper text), the caret (field), and the scrollbar (field thumb, paper track, 12px).",
+      "Do leave the nameplate thread, the browser, and the process rail fully drawn when motion is reduced."
+    ],
+    "donts": [
+      "Don't set the thread as text, or place it on paper. Against stone paper it is about 1.7:1.",
+      "Don't add a second accent, a gray for secondary text, or a second type family. Italic is not loaded.",
+      "Don't shadow bands, rows, or pills. The browser frame is the only shadow.",
+      "Don't turn service or project indexes into cards. They are square rows with a hairline.",
+      "Don't round the bottom of the lead browser. The square edge is the seam with the paper."
+    ]
+  }
+}
